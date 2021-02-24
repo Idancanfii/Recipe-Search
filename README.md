@@ -1,4 +1,4 @@
-Recipe search engine
+Recipe search engine made in React
 
 
 # Getting Started with Create React App
